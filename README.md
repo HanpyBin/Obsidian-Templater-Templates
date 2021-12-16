@@ -7,3 +7,4 @@
 > Attention: All the template files with '-admonition' mean you need to use this template with obsidian plugin `admonition` to show its origin appearance.
 ### Essay Reading
 ![Demonstration of Essay Reading template](./essay-reading/demonstration.png)
+<center>essay reading-admonition</center>
